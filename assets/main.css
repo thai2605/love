@@ -4,3 +4,10 @@
 img{
     border: 0;
  }
+ @media (max-width:739px){
+     body{
+        display: inline-block;
+        
+        text-align: center;
+     }
+ }
